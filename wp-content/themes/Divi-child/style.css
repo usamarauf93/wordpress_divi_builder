@@ -1,0 +1,28 @@
+/*======================================
+Theme Name: divi-child
+Theme URI: https://divicake.com/
+Description: Smart. Flexible. Beautiful. Divi is the most powerful theme in our collection.
+Version: 1.0
+Author: Elegant Themes
+Author URI: http://www.elegantthemes.com
+Template: Divi
+======================================*/
+
+
+/* You can add your own CSS styles here. Use !important to overwrite styles if needed. */
+
+    
+
+a.et_pb_button.et_pb_button_0.warning.btn.start-learning.et_pb_bg_layout_dark{
+        background-color: #ec594d !important;
+    font-family: 'Teko' !important;
+    border-radius: 0 !important;
+    text-transform: uppercase !important;
+    padding: 10px 40px 8px !important;
+    border: none !important;
+    font-size: 33px !important;
+    color: #fff !important;
+    font-weight: 300 !important;
+    margin: 0 0 20px !important;
+
+}
